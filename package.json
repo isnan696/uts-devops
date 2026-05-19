@@ -1,0 +1,27 @@
+{
+  "name": "uts-devops",
+  "version": "1.0.0",
+  "description": "Menambahkan halaman login sederhana.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isnan696/uts-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/isnan696/uts-devops/issues"
+  },
+  "homepage": "https://github.com/isnan696/uts-devops#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
